@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621845598448",
+    "project_id": "fisurugby-8f597",
+    "storage_bucket": "fisurugby-8f597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621845598448:android:aad9d7c5275226ca9bf235",
+        "android_client_info": {
+          "package_name": "com.timpo.fisurugby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621845598448-au71ang1aar64r6sn0lfdkqiv8tbg861.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDktVY_lPxGI4Vy3dBTzQX8wGnXzQvBb-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621845598448-au71ang1aar64r6sn0lfdkqiv8tbg861.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
