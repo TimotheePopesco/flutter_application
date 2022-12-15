@@ -6,3 +6,5 @@ Multi-platform application with Flutter, Dart and Firebase. Authentication page 
 # My progress on the project step by step
 
 I - Setting up the project and the dependencies :
+
+I started by creating a flutter project with the command: flutter create NameOfTheProject. 
