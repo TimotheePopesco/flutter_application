@@ -23,3 +23,5 @@ dependencies {
  -- End --
  
  II - Creation of the authentication form : 
+ 
+ III - Connect the Application to firestore :  
