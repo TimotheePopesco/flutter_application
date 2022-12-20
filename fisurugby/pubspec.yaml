@@ -12,9 +12,20 @@ dependencies:
 
   # Firebase
   firebase_auth: ^3.3.5
+  firebase_core: ^1.14.0
+  firebase_storage: ^10.2.10
 
   # Validate Email
   email_validator: ^2.0.1
+  
+  dio: ^4.0.6
+
+  # display video as preview
+  video_player: ^2.3.0
+
+  # Save downloaded file on phone
+  gallery_saver: ^2.3.2
+  path_provider: ^2.0.9
 
 dev_dependencies:
   flutter_test:

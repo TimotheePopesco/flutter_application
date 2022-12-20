@@ -6,6 +6,7 @@ import 'package:fisurugby/widget/login_widget.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:fisurugby/page/ressources_pages/ressources.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -50,7 +51,7 @@ class MainPage extends StatelessWidget {
             //   return AuthPage();
             // }
             else {
-              return SearchPage();
+              return RessourcePage();
             }
           },
         ),
