@@ -29,6 +29,13 @@
             {
               "client_id": "621845598448-au71ang1aar64r6sn0lfdkqiv8tbg861.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "621845598448-hmo1ng56uu8a0ijqqru1buvfdt1iphrk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timpo.fisurugby"
+              }
             }
           ]
         }
