@@ -25,3 +25,9 @@ dependencies {
  II - Creation of the authentication form : 
  
  III - Connect the Application to firestore :  
+ 
+ IV - Creation of the search page :
+ 
+ V - Creation of the download page :
+ 
+ 
